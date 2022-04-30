@@ -68,7 +68,7 @@ function App() {
 function App() {
   return (
     <BrowserRouter>
-      <Link to="/newsApp">NewsApp1</Link>
+      <Link to="/newsApp">NewsApp</Link>
       <br></br>
       <Link to="/newsApp1">Search</Link>
 
